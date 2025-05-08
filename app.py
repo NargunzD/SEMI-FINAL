@@ -9,7 +9,7 @@ def home():
         'Dionar M. Timbal<br>'
         'Section 1st A<br>'
         'System integration<br>'
-        'Semi Final'
+        'Semi Finals'
     )
 
 if __name__ == '__main__':
